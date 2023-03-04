@@ -25,4 +25,19 @@ public class TreeNode {
         this.right = right;
 
     }
+    public static TreeNode getTreeOf(int... nodeValues) {
+        TreeNode root = new TreeNode();
+        TreeNode parent,left,right;
+        for (int i: nodeValues
+             ) {
+
+        }
+        return root;
+    }
+/*    public void Insert(int val, TreeNode root) {
+
+    }
+    private TreeNode InsertHelper(int val, TreeNode root) {
+
+    }*/
 }

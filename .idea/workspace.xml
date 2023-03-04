@@ -5,27 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5b9f430-4624-4026-8dfd-656a0838e407" name="变更" comment="LeetCode hot 100 1.Two Sum">
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/ClimbStairs70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/CycleLinkedList141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/IntersectionLinkedList160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/MajorityNumber169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/MaxProfit121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/SingleNumber136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/SymmetricBST101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/TreeInorderTraversal94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/TwoSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/ValidBracket20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/invertTree226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/maxDepth104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/mergeTwoLists21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/reverseList206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Medium/AddTwoNum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Medium/LongestNonDuplicateSubstring3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hot100/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/MoveZeros283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/PalindromeLinkedList234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/countBits338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/diameterOfBinaryTree543.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/findDisappearedNumbers448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/hammingDistance461.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hot100/Easy/mergeTwoTrees617.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hot100/TwoSum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hot100/Easy/invertTree226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hot100/Easy/invertTree226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hot100/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hot100/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,45 +53,20 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Medium.dp_PathProblems" />
       <recent name="Hot100.Medium" />
       <recent name="Hot100.Easy" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.reverseList206">
-    <configuration name="ListNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hot100.ListNode" />
-      <module name="MyLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hot100.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumber136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hot100.Easy.SingleNumber136" />
-      <module name="MyLeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hot100.Easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidBracket20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hot100.Easy.ValidBracket20" />
+  <component name="RunManager" selected="应用程序.Zero_OneBackpackProblem">
+    <configuration name="CoinChange322" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hot100.Medium.CoinChange322" />
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeTwoLists21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hot100.Easy.mergeTwoLists21" />
+    <configuration name="MinFallingPathSum931" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.dp_PathProblems.MinFallingPathSum931" />
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hot100.Easy.*" />
+          <option name="PATTERN" value="Medium.dp_PathProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +91,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseList206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hot100.Easy.reverseList206" />
+    <configuration name="TriangleShortestPath120" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.dp_PathProblems.TriangleShortestPath120" />
       <module name="MyLeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hot100.Easy.*" />
+          <option name="PATTERN" value="Medium.dp_PathProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zero_OneBackpackProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.BackpackProblems.Zero_OneBackpackProblem" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.BackpackProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uniquePathsWithObstaclesII63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Medium.dp_PathProblems.uniquePathsWithObstaclesII63" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Medium.dp_PathProblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.reverseList206" />
-        <item itemvalue="应用程序.SingleNumber136" />
-        <item itemvalue="应用程序.mergeTwoLists21" />
-        <item itemvalue="应用程序.ListNode" />
-        <item itemvalue="应用程序.ValidBracket20" />
+        <item itemvalue="应用程序.Zero_OneBackpackProblem" />
+        <item itemvalue="应用程序.MinFallingPathSum931" />
+        <item itemvalue="应用程序.TriangleShortestPath120" />
+        <item itemvalue="应用程序.uniquePathsWithObstaclesII63" />
+        <item itemvalue="应用程序.CoinChange322" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +157,25 @@
       <workItem from="1676982780416" duration="10961000" />
       <workItem from="1677045299686" duration="4824000" />
       <workItem from="1677072132257" duration="5555000" />
-      <workItem from="1677135263363" duration="4753000" />
+      <workItem from="1677135263363" duration="10069000" />
+      <workItem from="1677152509162" duration="8832000" />
+      <workItem from="1677311028988" duration="1588000" />
+      <workItem from="1677315227492" duration="3693000" />
+      <workItem from="1677322678025" duration="9760000" />
+      <workItem from="1677385346388" duration="5273000" />
+      <workItem from="1677475007338" duration="6812000" />
+      <workItem from="1677483836709" duration="4544000" />
+      <workItem from="1677507343764" duration="231000" />
+      <workItem from="1677507587715" duration="6029000" />
+      <workItem from="1677515069440" duration="1357000" />
+      <workItem from="1677555965703" duration="1351000" />
+      <workItem from="1677563395241" duration="7158000" />
+      <workItem from="1677673483410" duration="4000" />
+      <workItem from="1677739532912" duration="9263000" />
+      <workItem from="1677819877101" duration="267000" />
+      <workItem from="1677820220193" duration="1944000" />
+      <workItem from="1677904834531" duration="10809000" />
+      <workItem from="1677926343123" duration="4238000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode hot 100 1.Two Sum">
       <created>1676859976844</created>
@@ -223,11 +232,66 @@
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Hot100/Medium/LongestNonDuplicateSubstring3.java</url>
+          <line>37</line>
+          <properties class="Hot100.Medium.LongestNonDuplicateSubstring3" method="DP_lengthOfLongestSubstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/Medium/DeleteNthFromEnd19.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/Medium/minPathSum64.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/Medium/maxSubArray53.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/Medium/SmartTheft198.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hot100/Medium/MaxSquare221.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/dp_PathProblems/uniquePathsWithObstaclesII63.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Medium/dp_PathProblems/TriangleShortestPath120.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyLeetCode$minPathSum64.ic" NAME="minPathSum64 覆盖结果" MODIFIED="1677481732252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Hot100.Medium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyLeetCode$LevelOrderTraversal102.ic" NAME="LevelOrderTraversal102 覆盖结果" MODIFIED="1677515396191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Hot100.Medium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MyLeetCode$DeleteNthFromEnd19.ic" NAME="DeleteNthFromEnd19 覆盖结果" MODIFIED="1677475911380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Hot100.Medium.*</FILTER>
+    </SUITE>
   </component>
 </project>
