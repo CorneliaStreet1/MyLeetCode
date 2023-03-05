@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b9f430-4624-4026-8dfd-656a0838e407" name="变更" comment="LeetCode hot 100 1.Two Sum">
-      <change afterPath="$PROJECT_DIR$/src/Hot100/Medium/DivideToEqualSubset416.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Medium/BackpackProblems/CompleteBackpackProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e5b9f430-4624-4026-8dfd-656a0838e407" name="变更" comment="LeetCode Backpack Problem" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +166,7 @@
       <workItem from="1677926343123" duration="4419000" />
       <workItem from="1677931936848" duration="5767000" />
       <workItem from="1677992771551" duration="484000" />
-      <workItem from="1677993269210" duration="2519000" />
+      <workItem from="1677993269210" duration="2631000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode hot 100 1.Two Sum">
       <created>1676859976844</created>
@@ -179,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676859976844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LeetCode Backpack Problem">
+      <created>1677996297569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677996297569</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +207,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LeetCode hot 100 1.Two Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode hot 100 1.Two Sum" />
+    <MESSAGE value="LeetCode Backpack Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Backpack Problem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
